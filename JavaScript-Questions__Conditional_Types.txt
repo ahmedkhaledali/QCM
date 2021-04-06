@@ -348,9 +348,9 @@ console.log(name === "Syrine" ? "Hi! I'm Syrine"
 
 .A : 5  
 .B : 10
-.C : 'one' ******
+.C : 'one' 
 .D : 'two'
-.E : 'three'
+.E : 'three' ****
 
 # Q26 What value is placed in myVar?
 
