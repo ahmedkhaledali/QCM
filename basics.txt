@@ -93,11 +93,11 @@ function myFunction (p1 p2) {
 myFunction (2,3)
 
 
-.A : 6 ***
+.A : 6 
 .B : 2
 .C : 3
 .D : null
-.E : Error
+.E : Error  ***
                                                                                
 # Q 12 What type of data cannot be used as a parameter
 
@@ -115,9 +115,9 @@ myFunction (2,3)
 
 
 .A : null
-.B : undefined   
+.B : undefined  *** 
 .C : default 
-.D : 0 ***
+.D : 0 
 
 
 # Q14 How many return statements can we find in a function??
